@@ -1,0 +1,4 @@
+- Pycharm IDE
+- Python
+- RobotFramework library
+- robotframework-sshlibrary(Imported as SSHLibrary)
